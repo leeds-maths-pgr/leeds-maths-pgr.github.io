@@ -28,6 +28,8 @@ jobs:
       run:
         working-directory: .
     steps:
+      - name: Install pandoc
+        uses: pandoc/actions/setup@{main}
       - name: Check out the repository to the runner
         uses: actions/checkout@v4  
       - name: Run the build script
