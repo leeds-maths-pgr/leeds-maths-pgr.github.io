@@ -2,7 +2,7 @@
 title: Pure Mathematics
 ---
 
-Your rep is Hope Duncan.
+Your Pure PGR representative is Hope Duncan.
 
 ## Seminar
 
