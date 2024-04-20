@@ -14,7 +14,7 @@ By custom, there is an offering of coffee and cakes after!
 To give a talk, or if you have a preference for post-seminar treats, contact one of the organisers:
 
 * Luca Seemungal, mmlse@leeds.ac.uk
-* Benji Morris,
+* Benji Morris, mmbajm at leeds.ac.uk
 * Shuang Zheng (Mia),
 
 ### Mon 08 Apr 2024.
@@ -44,9 +44,7 @@ In particular, we will discuss a theorem, originally due to S. Lie and rediscove
 
 ### Mon 29 Apr 2024
 
-*Speaker:* Hope Duncan.
-
-*Title:* An introduction to large cardinals.
+Hope Duncan, *An introduction to large cardinals.*
 
 *Abstract:* Large cardinals are an important aspect of modern set theory, allowing us to expand our understanding of infinite cardinals, and providing a rich hierarchy with applications in many areas of mathematics. We will provide the necessary background to understand what large cardinals are, look at the assumptions needed to produce a wordly cardinal, and show that this is independent from ZFC. We will then look at the applications of Large Cardinals within set theory and beyond.
 
@@ -56,18 +54,14 @@ In particular, we will discuss a theorem, originally due to S. Lie and rediscove
  
 ### Mon 13 May 2024
 
-*Speaker:* Mervyn Tong.
-
-*Title:* TBA.
+Mervyn Tong, *TBA*
 
 *Abstract:* TBA.
 
 
 ### Mon 20 May 2024
 
-*Speaker:* Luis Mario Chaparro Jaquez.
-
-*Title:* TBA.
+Luis Mario Chaparro Jaquez, *TBA*
 
 *Abstract:* TBA.
  
@@ -78,30 +72,24 @@ In particular, we will discuss a theorem, originally due to S. Lie and rediscove
 
 ### Mon 03 June 2024
 
-*Speaker:* Ben de Smet.
-
-*Title:* TBA. 
+Ben de Smet, *TBA*
 
 *Abstract:* TBA.
 
 
 ### Mon 10 June 2024
 
-*Speaker:* TBA.
-
-*Title:* TBA. 
+TBA, *TBA*
 
 *Abstract:* TBA.
 
 
 ### Mon 17 June 2024
 
-*Speaker:* TBA.
-
-*Title:* TBA. 
+TBA, *TBA*
 
 *Abstract:* TBA.
 
 <hr>
 
-We will see closer to the time if there is sufficient demand for the seminar to continue into summer.
+We will see closer to the time if there is sufficient demand for the seminar to continue into the summer.
