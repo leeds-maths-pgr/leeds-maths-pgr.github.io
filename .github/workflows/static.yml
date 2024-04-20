@@ -35,6 +35,7 @@ jobs:
       - name: Run the build script
         run: ./build.sh
   deploy:
+    needs: build
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
