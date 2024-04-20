@@ -46,9 +46,10 @@ In particular, we will discuss a theorem, originally due to S. Lie and rediscove
 
 *Speaker:* Hope Duncan.
 
-*Title:* TBA.
+*Title:* An introduction to large cardinals.
 
-*Abstract:* TBA.
+*Abstract:* Large cardinals are an important aspect of modern set theory, allowing us to expand our understanding of infinite cardinals, and providing a rich hierarchy with applications in many areas of mathematics. We will provide the necessary background to understand what large cardinals are, look at the assumptions needed to produce a wordly cardinal, and show that this is independent from ZFC. We will then look at the applications of Large Cardinals within set theory and beyond.
+
 
 ### Mon 06 May 2024 --- University closed.
 
