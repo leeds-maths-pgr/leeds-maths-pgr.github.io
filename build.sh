@@ -57,6 +57,7 @@ fi
 # Generic sed command that needs to be passed to other functions
 SUBSTITUTION="s|${DIR_CONT}|${DIR_OUTP}|"
 
+mkdir -p "${DIR_OUTP}"
 _clean "${DIR_OUTP}"
 if [ ! -z "$cflag" ]; then
     exit 0
