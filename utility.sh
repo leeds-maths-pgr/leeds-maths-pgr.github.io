@@ -14,8 +14,7 @@ str_add () {
 
 collect_files () {
     # Usage: collect_files CONTENT_DIR
-    # Return a ':' separated list of files in CONTENT DIR to process
-    # Assumes that a markdown file is to be processed iff it is named 'index.md'
+    # Returns: a ':' separated list of markdown files in CONTENT DIR
     outp=
     for f_name in $(find "$1" -mindepth 1 -type f -name '*.md'); do
         outp=$(str_add "$outp" "$f_name")
@@ -25,15 +24,21 @@ collect_files () {
 
 get_out_path () {
     # Usage: get_out_path FILE SUBSTITUTION
-    # Returns the output path of FILE according to SUBSTITUTION
+    # Returns: The output path of FILE according to SUBSTITUTION
     printf "$1" | sed -E "$2;s|md$|html|"
 }
 
 # Non-pure functions
 
+_clean () {
+    # Usage: _clean DIR
+    # Remove all files in DIR
+    find "$1" -mindepth 1 -delete
+}
+
 _make_dirs () {
     # Usage: _make_dirs FILE_LIST SUBSTITUTION
-    # Given a list of files, create the corresponding directories in the output directory
+    # Given a list of files, create output directories for those files according to SUBSTITUTION
     OIFS="$IFS"
     IFS=":"
     for f_name in $1; do
@@ -41,12 +46,6 @@ _make_dirs () {
         mkdir -p "${d_name}"
     done
     IFS="$OIFS"
-}
-
-_clean () {
-    # Usage: _clean DIR
-    # Remove all files in DIR
-    find "$1" -mindepth 1 -delete
 }
 
 _render_file () {
