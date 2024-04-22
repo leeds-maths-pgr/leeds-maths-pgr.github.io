@@ -61,7 +61,7 @@ Mervyn Tong, *TBA*
 
 ### Mon 20 May 2024
 
-Luis Mario Chaparro Jaquez, *TBA*
+Luis Mario Chaparro Jáquez, *TBA*
 
 *Abstract:* TBA.
  
