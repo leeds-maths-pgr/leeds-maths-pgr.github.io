@@ -13,7 +13,7 @@ pagetitle: Homepage
 General:
 
 * Applied PGR Seminar
-* [Pure PGR Seminar](./pure)
+* [Pure PGR Seminar](./pure/seminar.html)
 * [Statistics PGR Seminar](https://lmcj.xyz/stats-seminar/)
 
 Subject-specific:
