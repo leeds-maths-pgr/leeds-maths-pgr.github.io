@@ -1,5 +1,6 @@
 ---
 title: Leeds Mathematics Postgraduate Researchers
+pagetitle: Homepage
 ---
 
 * Applied
