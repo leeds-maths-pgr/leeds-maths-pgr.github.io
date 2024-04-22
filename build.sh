@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-source "./utility.sh"
+. "./utility.sh"
 
 # Globals
 
@@ -49,7 +49,8 @@ while getopts "i:o:ch" OPTION; do
 done
 
 if [ -z "$oflag" ]; then
-    echo "ERR: Output directory not specified.\nPlease specify an output directory using the flag '-o OUTPDIR'"
+    echo "ERR: Output directory not specified."
+    echo "Please specify an output directory using the flag '-o OUTPDIR'"
     exit 1
 fi
 
