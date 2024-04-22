@@ -2,7 +2,7 @@
 title: Pure PGR Seminar
 ---
 
-[CLICK HERE FOR THE NEXT TALK](#latest)
+[CLICK HERE FOR THE NEXT TALK](#next)
 
 Talks are on **Mondays** at **4pm** in the **MALL**, *unless otherwise stated*.
 By custom, there is an offering of coffee and cakes after!
@@ -13,7 +13,7 @@ To give a talk, or if you have a preference for post-seminar treats, contact one
 * Benji Morris, mmbajm at leeds.ac.uk
 * Shuang Zheng (Mia),
 
-### Mon 08 Apr 2024.
+### Mon 08 Apr 2024
 
 Gautam Chaudhuri, *Vortices and the Geodesic Approximation*
 
@@ -38,7 +38,7 @@ Anup Anand Singh, *Geometry of coadjoint orbits*
 In particular, we will discuss a theorem, originally due to S. Lie and rediscovered in the 1960s by A. Kirillov and B. Kostant, that shows that the symplectic leaves of a Lie-Poisson structure coincide with the orbits of coadjoint representation. We will also briefly discuss how these ideas connect to the geometric formulation of classical mechanics where coadjoint orbits appear as natural phase spaces of dynamical systems.
 
 
-### Mon 29 Apr 2024
+### Mon 29 Apr 2024{#next}
 
 [**NOTE THE CHANGE OF ROOM: ROGER STEVENS LT 09**]{style="color: red"}
 
