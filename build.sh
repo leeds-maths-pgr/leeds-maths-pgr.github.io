@@ -1,12 +1,12 @@
 #!/bin/sh
 rm -rf docs/* \
-	&& mkdir -p docs \
-	&& mkdir -p docs/pure \
-	&& mkdir -p docs/applied \
-	&& mkdir -p docs/statistics \
+	&& mkdir -p www \
+	&& mkdir -p www/pure \
+	&& mkdir -p www/applied \
+	&& mkdir -p www/statistics \
 	&& echo "Folder structure creation successful."
-pandoc -s content/index.md -o docs/index.html \
-	&& pandoc -s content/pure/index.md -o docs/pure/index.html \
+pandoc -s content/index.md -o www/index.html \
+	&& pandoc -s content/pure/index.md -o www/pure/index.html \
 	&& echo "Site generation successful."
-	#&& pandoc -s content/applied.md -o docs/applied/index.html \
-	#&& pandoc -s content/statistics.md -o docs/statistics/index.html \
+	#&& pandoc -s content/applied.md -o www/applied/index.html \
+	#&& pandoc -s content/statistics.md -o www/statistics/index.html \
