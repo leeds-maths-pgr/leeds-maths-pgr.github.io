@@ -36,7 +36,7 @@ jobs:
       - name: Check out the repository to the runner
         uses: actions/checkout@v4  
       - name: Run the build script
-        run: ./build.sh
+        run: ./build.sh -o www
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
