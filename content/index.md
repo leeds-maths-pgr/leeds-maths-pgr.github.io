@@ -9,12 +9,16 @@ title: Leeds Mathematics Postgraduate Researchers
 
 ## Seminars
 
-* [Applied]()
-* [Pure](/pure)
-* [Statistics](https://lmcj.xyz/stats-seminar/)
+General:
 
-* [Fluids]()
-* [Logic]()
+* [Applied PGR Seminar]()
+* [Pure PGR Seminar](/pure)
+* [Statistics PGR Seminar](https://lmcj.xyz/stats-seminar/)
+
+Subject-specific:
+
+* [Fluids PGR Seminar]()
+* [Logic PGR Seminar]()
 
 ## Representatives
 
