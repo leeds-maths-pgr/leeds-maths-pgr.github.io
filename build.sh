@@ -20,7 +20,7 @@ fi
 oflag=
 cflag=
 
-while getopts "o:ch" OPTION; do
+while getopts "i:o:ch" OPTION; do
         case $OPTION in
 
                 o)
@@ -30,12 +30,16 @@ while getopts "o:ch" OPTION; do
                 c)
                         cflag="true";;
 
+                c)
+                        DIR_CONT="$OPTARG";;
+
                 h)
                         echo "Usage:"
                         echo "args.sh -h "
-                        echo "args.sh [-c] -o OUTPDIR "
+                        echo "args.sh [-ic] -o OUTPDIR "
                         echo ""
-                        echo "   -o OUTPDIR      Run the script writing the generated output to OUTPDIR"
+                        echo "   -o OUTPDIR      Set the output directory"
+                        echo "   -i INPTDIR      Set the input directory. Default value is 'content'"
                         echo "   -c              Do not build the site and just exit after cleaning the output directory"
                         echo "   -h              help (this output)"
                         exit 0
