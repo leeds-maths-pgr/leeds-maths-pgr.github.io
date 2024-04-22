@@ -2,9 +2,19 @@
 title: Leeds Mathematics Postgraduate Researchers
 ---
 
-* [Pure](/pure)
 * [Applied](/applied)
+* [Pure](/pure)
 * [Statistics](/statistics)
+
+
+## Seminars
+
+* [Applied]()
+* [Pure](/pure)
+* [Statistics]()
+
+* [Fluids]()
+* [Logic]()
 
 ## Conferences
 
