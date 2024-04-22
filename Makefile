@@ -6,7 +6,7 @@
 
 html:
 	mkdir -p html
-	build.sh -o html
+	./build.sh -o html
 
 serve:
 	cd html && python -m http.server
