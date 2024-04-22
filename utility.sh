@@ -17,7 +17,7 @@ collect_files () {
     # Return a ':' separated list of files in CONTENT DIR to process
     # Assumes that a markdown file is to be processed iff it is named 'index.md'
     outp=
-    for f_name in $(find "$1" -mindepth 1 -type f -name '*index.md'); do
+    for f_name in $(find "$1" -mindepth 1 -type f -name '*.md'); do
         outp=$(str_add "$outp" "$f_name")
     done
     printf "$outp"
