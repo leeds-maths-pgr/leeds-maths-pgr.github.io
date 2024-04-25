@@ -26,8 +26,10 @@ The site is built and deployed automatically upon `git push` to `main`, it shoul
 #### Previewing changes
 
 If you have a copy of python accessible from your path, you can use its in-built http server to preview changes.
-This has been added to a Makefile for your convenience, run:
+Alternatively, if you prefer not to use python, you can use `darkhttpd`.
+This has been added to a Makefile for your convenience; run:
 - `make html` to set up the local directories and locally build the site
-- `make serve` to run the local http server
+- `make serve` to run the local python http server, if you have python installed
+- `make darkserve` to run the local `darkhttpd` server, if you have `darkhttpd` installed
 
 The preview of the site should then be available at [http://localhost:8000/](http://localhost:8000/)

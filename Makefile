@@ -11,5 +11,8 @@ html:
 serve:
 	cd html && python -m http.server
 
+darkserve:
+	cd html && darkhttpd . --port 8000
+
 .PHONY: html serve
 # end
