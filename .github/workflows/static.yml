@@ -2,9 +2,8 @@
 name: Deploy static content to Pages
 
 on:
-  # Runs on pushes targeting the default branch
   push:
-    branches: ["main"]
+    branches: ["main", "develop"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -22,10 +21,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  build_and_deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  build:
     runs-on: ubuntu-latest
     defaults:
       run:
@@ -36,23 +32,19 @@ jobs:
       - name: Check out the repository to the runner
         uses: actions/checkout@v4  
       - name: Run the build script
-        run: ./build.sh
+        run: ./build.sh -o _publish
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './www'
+          path: '_publish'
+  deploy:
+    needs: build
+    if: github.ref == 'refs/heads/main'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-  #deploy: 
-   # runs-on: ubuntu-latest
-    #steps:
-     # - name: Checkout
-      #  uses: actions/checkout@v4
-      #- name: Setup Pages
-      #  uses: actions/configure-pages@v5
-      #- name: Upload artifact
-      #  uses: actions/upload-pages-artifact@v3
-       # with:
-          # Upload entire repository
-       #   path: './docs'
