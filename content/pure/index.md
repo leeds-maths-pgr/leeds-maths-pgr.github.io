@@ -8,7 +8,7 @@ Your Pure PGR representative is Hope Duncan.
 
 [CLICK HERE FOR THE NEXT TALK](#mon-29-apr-2024)
 
-Talks are on **Mondays** at **4pm** in the **MALL**.
+Talks are on **Mondays** at **4pm** in the **MALL**, *unless otherwise stated*.
 By custom, there is an offering of coffee and cakes after!
 
 To give a talk, or if you have a preference for post-seminar treats, contact one of the organisers:
@@ -44,7 +44,13 @@ In particular, we will discuss a theorem, originally due to S. Lie and rediscove
 
 ### Mon 29 Apr 2024
 
-Hope Duncan, *An introduction to large cardinals.*
+<div style="color: #FF0000">
+
+**NOTE THE CHANGE OF ROOM: ROGER STEVENS LT 09**
+
+</div>
+
+Hope Duncan, *An introduction to large cardinals.* 
 
 *Abstract:* Large cardinals are an important aspect of modern set theory, allowing us to expand our understanding of infinite cardinals, and providing a rich hierarchy with applications in many areas of mathematics. We will provide the necessary background to understand what large cardinals are, look at the assumptions needed to produce a wordly cardinal, and show that this is independent from ZFC. We will then look at the applications of Large Cardinals within set theory and beyond.
 
