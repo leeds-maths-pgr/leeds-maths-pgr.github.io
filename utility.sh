@@ -67,3 +67,15 @@ _render_site () {
     done
     IFS="$OIFS"
 }
+
+_copy_assets () {
+    # Usage: _copy_assets DIRS_LIST OUTP_DIR
+    # Given a list of asset directories copy them into the output directory
+    OIFS="$IFS"
+    IFS=":"
+    for d_name in $1; do
+        cp -r "${d_name}" "${2}/"
+        cp "archetypes/redirect_home.html" "${2}/${d_name}/index.html"
+    done
+    IFS="$OIFS"
+}
