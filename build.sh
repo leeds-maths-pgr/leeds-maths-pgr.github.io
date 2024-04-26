@@ -32,7 +32,7 @@ while getopts "i:o:a:ch" OPTION; do
                 c)
                         cflag="true";;
 
-                c)
+                i)
                         DIR_CONT="$OPTARG";;
                 a)
                         aflag="true"
