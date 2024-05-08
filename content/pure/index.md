@@ -60,9 +60,11 @@ Hope Duncan, *An introduction to large cardinals.*
  
 ### Mon 13 May 2024
 
-Mervyn Tong, *TBA*
+Mervyn Tong, *Finite combinatorics for the win*
 
-*Abstract:* TBA.
+*Abstract:* One fine morning, as you walk past Henry Price, a geothermal borehole driller excitedly beckons you over. 'What is it?' you ask. 'Did you find geothermal energy?' 'What? No, but I can see why you might think that,' he replies. 'I found this bounded subset of Euclidean n-space, and I want to break it up into pieces of smaller diameter. How many pieces do you think I would need? Would n+1 suffice?'
+
+This is precisely the content of Borsuk's Conjecture, which has a surprising resolution using finite combinatorics. We present some notions and results in the theory of set systems, culminating in the beautiful proof of the Frankl-Wilson Theorem on modular intersections, and apply it to help out our driller friend.
 
 
 ### Mon 20 May 2024
