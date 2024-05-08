@@ -6,7 +6,7 @@ Your Pure PGR representative is Hope Duncan.
 
 ## Seminar
 
-[CLICK HERE FOR THE NEXT TALK](#mon-29-apr-2024)
+[CLICK HERE FOR THE NEXT TALK](#mon-13-may-2024)
 
 Talks are on **Mondays** at **4pm** in the **MALL**, *unless otherwise stated*.
 By custom, there is an offering of coffee and cakes after!
