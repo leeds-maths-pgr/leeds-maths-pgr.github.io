@@ -35,7 +35,7 @@ In this talk I will introduce the geodesic approximation in the particular conte
 In particular, we will discuss a theorem, originally due to S. Lie and rediscovered in the 1960s by A. Kirillov and B. Kostant, that shows that the symplectic leaves of a Lie-Poisson structure coincide with the orbits of coadjoint representation. We will also briefly discuss how these ideas connect to the geometric formulation of classical mechanics where coadjoint orbits appear as natural phase spaces of dynamical systems.
 
 
-### 29 Apr{#next .talk-date}
+### 29 Apr{.talk-date}
 
 [**NOTE THE CHANGE OF ROOM: ROGER STEVENS LT 09**]{style="color: red"}
 
@@ -47,7 +47,7 @@ In particular, we will discuss a theorem, originally due to S. Lie and rediscove
 ### 06 May --- University closed{.talk-date}
 
  
-### 13 May{.talk-date}
+### 13 May{#next .talk-date}
 #### [Mervyn Tong]{.speaker-name} — [Finite combinatorics for the win]{.talk-title} {.speaker-title}
 
 *Abstract:* One fine morning, as you walk past Henry Price, a geothermal borehole driller excitedly beckons you over. 'What is it?' you ask. 'Did you find geothermal energy?' 'What? No, but I can see why you might think that,' he replies. 'I found this bounded subset of Euclidean n-space, and I want to break it up into pieces of smaller diameter. How many pieces do you think I would need? Would n+1 suffice?'
