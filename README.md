@@ -3,7 +3,6 @@
 [![GitHub Pages Deployment](https://github.com/leeds-maths-pgr/leeds-maths-pgr.github.io/actions/workflows/static.yml/badge.svg)](https://github.com/leeds-maths-pgr/leeds-maths-pgr.github.io/actions/workflows/static.yml)
 
 This holds the content for the Mathematics PGR site at the University of Leeds and handles the site upload via GitHub actions.
-Currently we do not support uploading assets such as images and PDFs, though we are working on this.
 
 ## Updating the website
 
@@ -26,10 +25,16 @@ The site is built and deployed automatically upon `git push` to `main`, it shoul
 #### Previewing changes
 
 If you have a copy of python accessible from your path, you can use its in-built http server to preview changes.
-Alternatively, if you prefer not to use python, you can use `darkhttpd`.
+Alternatively, if you prefer not to use python, you can use [`darkhttpd`](https://unix4lyfe.org/darkhttpd/).
 This has been added to a Makefile for your convenience; run:
 - `make html` to set up the local directories and locally build the site
 - `make serve` to run the local python http server, if you have python installed
 - `make darkserve` to run the local `darkhttpd` server, if you have `darkhttpd` installed
 
 The preview of the site should then be available at [http://localhost:8000/](http://localhost:8000/)
+
+### Uploading assets
+
+Place any static assets (e.g. PDFs or images) in the [`assets`](./assets/) directory, they can then be linked to from the content document.
+For example, if you wanted to link to `assets/Georg_Friedrich_Bernhard_Riemann.jpeg`, you would write `[link text](/assets/Georg_Friedrich_Bernhard_Riemann.jpeg)`.
+Do take note of the leading `/` in the URL above, it is important!
