@@ -47,7 +47,7 @@ In particular, we will discuss a theorem, originally due to S. Lie and rediscove
 ### 06 May --- University closed{.talk-date}
 
  
-### 13 May{#next .talk-date}
+### 13 May{.talk-date}
 #### [Mervyn Tong]{.speaker-name} — [Finite combinatorics for the win]{.talk-title} {.speaker-title}
 
 *Abstract:* One fine morning, as you walk past Henry Price, a geothermal borehole driller excitedly beckons you over. 'What is it?' you ask. 'Did you find geothermal energy?' 'What? No, but I can see why you might think that,' he replies. 'I found this bounded subset of Euclidean n-space, and I want to break it up into pieces of smaller diameter. How many pieces do you think I would need? Would n+1 suffice?'
@@ -55,7 +55,6 @@ In particular, we will discuss a theorem, originally due to S. Lie and rediscove
 This is precisely the content of Borsuk's Conjecture, which has a surprising resolution using finite combinatorics. We present some notions and results in the theory of set systems, culminating in the beautiful proof of the Frankl-Wilson Theorem on modular intersections, and apply it to help out our driller friend.
 
 
-### 20 May{.talk-date}
 ### 20 May{#next .talk-date}
 #### [Luis Mario Chaparro Jáquez]{.speaker-name} — [Markov processes and their friends]{.talk-title} {.speaker-title}
 
