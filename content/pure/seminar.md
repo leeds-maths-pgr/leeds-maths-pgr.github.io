@@ -19,6 +19,8 @@ To give a talk, or if you have a preference for post-seminar treats, contact one
 * Benji Morris, mmbajm at leeds.ac.uk
 * Shuang Zheng (Mia),
 
+Previous incarnations of this seminar can be found [here](./archive).
+
 ## Autumn Term{#autumn}
 
 ## Spring Term{#spring}
