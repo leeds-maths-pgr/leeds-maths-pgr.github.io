@@ -1,6 +1,8 @@
 ---
 title: Pure PGR Seminar
 subtitle: Academic Year 2023-24
+header-includes:
+    <link rel="stylesheet" href="/static/pure-seminar.css" />
 ---
 
 [CLICK HERE FOR THE NEXT TALK](#next)

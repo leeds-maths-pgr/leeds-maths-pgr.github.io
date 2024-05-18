@@ -1,6 +1,8 @@
 ---
 title: Pure PGR Seminar
 subtitle: Academic Year 2021-22
+header-includes:
+    <link rel="stylesheet" href="/static/pure-seminar.css" />
 ---
 
 Jump to:
