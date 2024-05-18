@@ -1,8 +1,14 @@
 ---
 title: Pure PGR Seminar
+subtitle: Academic Year 2023-24
 ---
 
 [CLICK HERE FOR THE NEXT TALK](#next)
+
+Jump to:
+
+- [Autumn term](#autumn)
+- [Spring term](#spring)
 
 Talks are on **Mondays** at **4pm** in the **MALL**, *unless otherwise stated*.
 By custom, there is an offering of coffee and cakes after!
@@ -12,6 +18,10 @@ To give a talk, or if you have a preference for post-seminar treats, contact one
 * Luca Seemungal, mmlse@leeds.ac.uk
 * Benji Morris, mmbajm at leeds.ac.uk
 * Shuang Zheng (Mia),
+
+## Autumn Term{#autumn}
+
+## Spring Term{#spring}
 
 ### 08 Apr{.talk-date}
 #### [Gautam Chaudhuri]{.speaker-name} — [Vortices and the Geodesic Approximation]{.talk-title} {.speaker-title}
