@@ -56,9 +56,10 @@ This is precisely the content of Borsuk's Conjecture, which has a surprising res
 
 
 ### 20 May{.talk-date}
-#### [Luis Mario Chaparro Jáquez]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
+### 20 May{#next .talk-date}
+#### [Luis Mario Chaparro Jáquez]{.speaker-name} — [Markov processes and their friends]{.talk-title} {.speaker-title}
 
-*Abstract:* TBA.
+*Abstract:* We will embark on a journey that mirrors my experience some time ago while learning the simplest connection between partial differential equations and probability.
  
 
 ### 27 May --- University closed.{.talk-date}
