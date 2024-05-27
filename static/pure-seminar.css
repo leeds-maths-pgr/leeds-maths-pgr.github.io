@@ -1,0 +1,19 @@
+body {
+    text-align: justify;
+}
+
+h3.talk-date, h4.speaker-title {
+    font-size: 1.2em;
+}
+
+h3.talk-date {
+    margin-bottom: 0;
+}
+
+h4.speaker-title {
+    margin-top: 0;
+    margin-bottom: 0.25em;
+    font-weight: normal;
+    font-style: italic;
+    color: #3a3a3a;
+}
