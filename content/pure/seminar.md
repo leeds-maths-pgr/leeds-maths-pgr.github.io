@@ -119,7 +119,7 @@ In particular, we will discuss a theorem, originally due to S. Lie and rediscove
 This is precisely the content of Borsuk's Conjecture, which has a surprising resolution using finite combinatorics. We present some notions and results in the theory of set systems, culminating in the beautiful proof of the Frankl-Wilson Theorem on modular intersections, and apply it to help out our driller friend.
 
 
-### 20 May{#next .talk-date}
+### 20 May{.talk-date}
 #### [Luis Mario Chaparro Jáquez]{.speaker-name} — [Markov processes and their friends]{.talk-title} {.speaker-title}
 
 *Abstract:* We will embark on a journey that mirrors my experience some time ago while learning the simplest connection between partial differential equations and probability.
@@ -129,10 +129,12 @@ This is precisely the content of Borsuk's Conjecture, which has a surprising res
 
  
 
-### 03 Jun{.talk-date}
-#### [Ben de Smet]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
+### 03 Jun{#next .talk-date}
+#### [Ben de Smet]{.speaker-name} — [An Introduction to O-minimality]{.talk-title} {.speaker-title}
 
-*Abstract:* TBA.
+*Abstract:* In 1984 Grothendieck remarked: ‘General topology kind of sucks. What if there was a new, tamer topology which sucked less?’
+In this talk I will be introducing o-minimal structures, one possible realisation of Grothendieck’s vision.
+The talk will consist of me defining and motivating these structures, then providing some basic and more advanced results relating to them.
 
 
 ### 10 Jun{.talk-date}
