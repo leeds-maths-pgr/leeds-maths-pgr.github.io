@@ -144,7 +144,7 @@ The talk will consist of me defining and motivating these structures, then provi
 
 
 ### 17 Jun{.talk-date}
-#### [TBA]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
+#### [Iacopo Nonis]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
 
 *Abstract:* TBA.
 
