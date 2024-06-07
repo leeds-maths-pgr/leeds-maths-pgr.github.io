@@ -129,7 +129,7 @@ This is precisely the content of Borsuk's Conjecture, which has a surprising res
 
  
 
-### 03 Jun{#next .talk-date}
+### 03 Jun{.talk-date}
 #### [Ben de Smet]{.speaker-name} — [An Introduction to O-minimality]{.talk-title} {.speaker-title}
 
 *Abstract:* In 1984 Grothendieck remarked: ‘General topology kind of sucks. What if there was a new, tamer topology which sucked less?’
@@ -137,14 +137,16 @@ In this talk I will be introducing o-minimal structures, one possible realisatio
 The talk will consist of me defining and motivating these structures, then providing some basic and more advanced results relating to them.
 
 
-### 10 Jun{.talk-date}
-#### [TBA]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
+### 10 Jun{#next .talk-date}
+#### [Iacopo Nonis]{.speaker-name} — [The shape of the module category of a finite dimensional algebra]{.talk-title} {.speaker-title}
 
-*Abstract:* TBA.
+*Abstract:* In the representation theory of associative algebras, we study categories of modules.
+In this talk, we explain how this is intimately related to the representation theory of quivers.
+Furthermore, we take a leisurely tour of Auslander-Reiten theory and explain how the "shape" of the finite-dimensional module category over a finite-dimensional algebra is described by its Auslander-Reiten quiver.
 
 
 ### 17 Jun{.talk-date}
-#### [Iacopo Nonis]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
+#### [TBA]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
 
 *Abstract:* TBA.
 
