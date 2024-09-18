@@ -27,7 +27,7 @@ Previous incarnations of this seminar can be found [here](./archive).
 
 
 ### 30 Sep{#next .talk-date}
-#### [TBA]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
+#### [Gautam Chaudhuri]{.speaker-name} — [2-Vortices on Elliptic Curves]{.talk-title} {.speaker-title}
 
 *Abstract*: TBA.
 
