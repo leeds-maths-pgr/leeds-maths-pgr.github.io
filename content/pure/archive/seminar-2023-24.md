@@ -5,23 +5,17 @@ header-includes:
     <link rel="stylesheet" href="/static/pure-seminar.css" />
 ---
 
-[CLICK HERE FOR THE NEXT TALK](#next)
-
 Jump to:
 
 - [Autumn term](#autumn)
 - [Spring term](#spring)
 
-Talks are on **Mondays** at **4pm** in the **MALL**, *unless otherwise stated*.
-By custom, there is an offering of coffee and cakes after!
+Organised by:
 
-To give a talk, or if you have a preference for post-seminar treats, contact one of the organisers:
-
-* Luca Seemungal, mmlse@leeds.ac.uk
-* Benji Morris, mmbajm at leeds.ac.uk
-* Shuang Zheng (Mia),
-
-Previous incarnations of this seminar can be found [here](./archive).
+* Tathagata Ghosh (Autumn)
+* Benji Morris (Spring)
+* Luca Seemungal (Spring)
+* Shuang Zheng (Autumn, Spring)
 
 ## Autumn Term{#autumn}
 
