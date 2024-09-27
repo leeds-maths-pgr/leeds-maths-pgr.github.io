@@ -29,7 +29,14 @@ Previous incarnations of this seminar can be found [here](./archive).
 ### 30 Sep{#next .talk-date}
 #### [Gautam Chaudhuri]{.speaker-name} — [2-Vortices on Elliptic Curves]{.talk-title} {.speaker-title}
 
-*Abstract*: TBA.
+*Abstract*: Vortices are topological solitons arising in the Ginzburg-Landau theory of superconductivity.
+They have been observed experimentally and explain some of the magnetic properties of type-II superconductors.
+A remarkable feature of low-energy vortices is that they can be completely described by algebro-geometric data.
+Moreover low-energy vortex dynamics can be described by the path of a point in a high dimensional _moduli space_ which parametrises all possible data.
+
+In this talk, I will introduce moduli spaces in the context of 2-vortices on elliptic curves.
+After a brief review of some algebraic geometry, we will construct the moduli space of 2-vortices on an elliptic curve and show that it is a fibre bundle.
+Time permitting, we will discuss some recent results on approximations to low-energy vortex dynamics and construct exact solutions for approximate 2-vortex motion on an elliptic curve.
 
 
 ### 07 Oct{.talk-date}
