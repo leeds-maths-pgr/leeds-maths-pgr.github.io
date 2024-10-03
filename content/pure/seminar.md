@@ -40,9 +40,9 @@ Time permitting, we will discuss some recent results on approximations to low-en
 
 
 ### 07 Oct{.talk-date}
-#### [TBA]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
+#### [Giorgio Genovesi]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
 
-[**NOTE THE CHANGE OF ROOM: ROGER STEVENS LT XX**]{style="color: red"}
+[**NOTE THE CHANGE OF ROOM: ROGER STEVENS LT 15**]{style="color: red"}
 
 *Abstract*: TBA.
 
