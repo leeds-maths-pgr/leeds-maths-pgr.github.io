@@ -26,7 +26,7 @@ Previous incarnations of this seminar can be found [here](./archive).
 ## Autumn Term{#autumn}
 
 
-### 30 Sep{#next .talk-date}
+### 30 Sep{.talk-date}
 #### [Gautam Chaudhuri]{.speaker-name} — [2-Vortices on Elliptic Curves]{.talk-title} {.speaker-title}
 
 *Abstract*: Vortices are topological solitons arising in the Ginzburg-Landau theory of superconductivity.
@@ -39,12 +39,12 @@ After a brief review of some algebraic geometry, we will construct the moduli sp
 Time permitting, we will discuss some recent results on approximations to low-energy vortex dynamics and construct exact solutions for approximate 2-vortex motion on an elliptic curve.
 
 
-### 07 Oct{.talk-date}
-#### [Giorgio Genovesi]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
+### 07 Oct{#next .talk-date}
+#### [Giorgio Genovesi]{.speaker-name} — [Showing Problems are Undecidable by Coding the Halting Problem.]{.talk-title} {.speaker-title}
 
 [**NOTE THE CHANGE OF ROOM: ROGER STEVENS LT 15**]{style="color: red"}
 
-*Abstract*: TBA.
+*Abstract*: We go over some basic results of recursion theory and the undecidability of the halting problem. We then lay out a standard proceedure used to show that a problem is undecidable and prove a few classic examples.
 
 
 ### 14 Oct{.talk-date}
