@@ -39,7 +39,7 @@ After a brief review of some algebraic geometry, we will construct the moduli sp
 Time permitting, we will discuss some recent results on approximations to low-energy vortex dynamics and construct exact solutions for approximate 2-vortex motion on an elliptic curve.
 
 
-### 07 Oct{#next .talk-date}
+### 07 Oct{.talk-date}
 #### [Giorgio Genovesi]{.speaker-name} — [Showing Problems are Undecidable by Coding the Halting Problem.]{.talk-title} {.speaker-title}
 
 [**NOTE THE CHANGE OF ROOM: ROGER STEVENS LT 15**]{style="color: red"}
@@ -47,10 +47,10 @@ Time permitting, we will discuss some recent results on approximations to low-en
 *Abstract*: We go over some basic results of recursion theory and the undecidability of the halting problem. We then lay out a standard proceedure used to show that a problem is undecidable and prove a few classic examples.
 
 
-### 14 Oct{.talk-date}
-#### [TBA]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
+### 14 Oct{#next .talk-date}
+#### [Benji Morris]{.speaker-name} — [What's the Deal with Cellular Algebras]{.talk-title} {.speaker-title}
 
-*Abstract*: TBA.
+*Abstract*: A cellular algebra is an (associative and unital) algebra with a specified basis, defined by certain multiplicative properties. This notion was crystallised by Graham and Lehrer in the late 90’s in what has proven to be a popular work in modern representation theory. In this talk we will present this notion and its representation theoretic consequences, all while following a friendly example for concreteness. 
 
 
 ### 21 Oct{.talk-date}
