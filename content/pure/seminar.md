@@ -47,45 +47,40 @@ Time permitting, we will discuss some recent results on approximations to low-en
 *Abstract*: We go over some basic results of recursion theory and the undecidability of the halting problem. We then lay out a standard proceedure used to show that a problem is undecidable and prove a few classic examples.
 
 
-### 14 Oct{#next .talk-date}
+### 14 Oct{.talk-date}
 #### [Benji Morris]{.speaker-name} — [What's the Deal with Cellular Algebras]{.talk-title} {.speaker-title}
 
 *Abstract*: A cellular algebra is an (associative and unital) algebra with a specified basis, defined by certain multiplicative properties. This notion was crystallised by Graham and Lehrer in the late 90’s in what has proven to be a popular work in modern representation theory. In this talk we will present this notion and its representation theoretic consequences, all while following a friendly example for concreteness. 
 
 
-### 21 Oct{.talk-date}
-#### [TBA]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
+### 21 Oct{#next .talk-date}
+#### [Calliope Ryan-Smith]{.speaker-name} — [Permutation models]{.talk-title} {.speaker-title}
 
-*Abstract*: TBA.
+*Abstract*: Permutation models are a technique developed in the 1920s-30s to begin trying to answer questions about the independence of AC from ZF. Instead of working in the usual ZF set theory, we instead construct a model of ZFA (ZF with "atoms": distinct, non-set objects). By then shaving down our model to only a collection of "symmetric enough" objects, we can obtain models of ZFA that violate choice in some strange ways. I shall introduce this concept and show off some models that give us independence results.
+
 
 ### 28 Oct{.talk-date}
-#### [TBA]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
+#### [Orla McGrath]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
 
 *Abstract*: TBA.
 
 
-### 04 Nov{.talk-date}
-#### [TBA]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
-
-*Abstract*: TBA.
+### 04 Nov: Pure Maths Colloquium
 
 
 ### 11 Nov{.talk-date}
-#### [TBA]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
+#### [Constance Bramham]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
 
 *Abstract*: TBA.
 
 
 ### 18 Nov{.talk-date}
-#### [TBA]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
+#### [Joshua Losh]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
 
 *Abstract*: TBA.
 
 
-### 25 Nov{.talk-date}
-#### [TBA]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
-
-*Abstract*: TBA.
+### 25 Nov: Pure Maths Colloquium
 
 
 ### 02 Dec{.talk-date}
@@ -95,7 +90,7 @@ Time permitting, we will discuss some recent results on approximations to low-en
 
 
 ### 09 Dec{.talk-date}
-#### [TBA]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
+#### [Ben de Smet]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
 
 *Abstract*: TBA.
 
