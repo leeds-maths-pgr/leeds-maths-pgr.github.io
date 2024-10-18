@@ -69,7 +69,7 @@ Time permitting, we will discuss some recent results on approximations to low-en
 
 
 ### 11 Nov{.talk-date}
-#### [Constance Bramham]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
+#### [Constance Bromham]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
 
 *Abstract*: TBA.
 
