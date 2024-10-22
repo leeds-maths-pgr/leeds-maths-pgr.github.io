@@ -60,16 +60,16 @@ Time permitting, we will discuss some recent results on approximations to low-en
 
 
 ### 28 Oct{.talk-date}
-#### [Orla McGrath]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
+#### [Orla McGrath]{.speaker-name} — [The Lie algebra of a matrix Lie group]{.talk-title} {.speaker-title}
 
-*Abstract*: TBA.
+*Abstract*: Lie groups are used to study continuous symmetries and have applications in numerous areas of maths, from mathematical physics to number theory. The tangent space to the identity of a Lie group is a Lie algebra, hence Lie algebras are a useful tool in order to understand Lie groups. In this talk we will look at Lie algebras and Lie groups from an algebraic perspective, firstly reviewing basic notions of Lie algebras, before discussing at the Lie algebra of a matrix Lie group, and some of the properties preserved between these two objects.
 
 
 ### 04 Nov: Pure Maths Colloquium
 
 
 ### 11 Nov{.talk-date}
-#### [Constance Bromham]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
+#### [Connie Bromham]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
 
 *Abstract*: TBA.
 
