@@ -53,13 +53,13 @@ Time permitting, we will discuss some recent results on approximations to low-en
 *Abstract*: A cellular algebra is an (associative and unital) algebra with a specified basis, defined by certain multiplicative properties. This notion was crystallised by Graham and Lehrer in the late 90’s in what has proven to be a popular work in modern representation theory. In this talk we will present this notion and its representation theoretic consequences, all while following a friendly example for concreteness. 
 
 
-### 21 Oct{#next .talk-date}
+### 21 Oct{.talk-date}
 #### [Calliope Ryan-Smith]{.speaker-name} — [Permutation models]{.talk-title} {.speaker-title}
 
 *Abstract*: Permutation models are a technique developed in the 1920s-30s to begin trying to answer questions about the independence of AC from ZF. Instead of working in the usual ZF set theory, we instead construct a model of ZFA (ZF with "atoms": distinct, non-set objects). By then shaving down our model to only a collection of "symmetric enough" objects, we can obtain models of ZFA that violate choice in some strange ways. I shall introduce this concept and show off some models that give us independence results.
 
 
-### 28 Oct{.talk-date}
+### 28 Oct{#next .talk-date}
 #### [Orla McGrath]{.speaker-name} — [The Lie algebra of a matrix Lie group]{.talk-title} {.speaker-title}
 
 *Abstract*: Lie groups are used to study continuous symmetries and have applications in numerous areas of maths, from mathematical physics to number theory. The tangent space to the identity of a Lie group is a Lie algebra, hence Lie algebras are a useful tool in order to understand Lie groups. In this talk we will look at Lie algebras and Lie groups from an algebraic perspective, firstly reviewing basic notions of Lie algebras, before discussing at the Lie algebra of a matrix Lie group, and some of the properties preserved between these two objects.
