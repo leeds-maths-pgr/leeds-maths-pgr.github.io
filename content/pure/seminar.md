@@ -90,7 +90,7 @@ Time permitting, we will discuss some recent results on approximations to low-en
 
 
 ### 09 Dec{.talk-date}
-#### [Ben de Smet]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
+#### [Ben De Smet]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
 
 *Abstract*: TBA.
 
