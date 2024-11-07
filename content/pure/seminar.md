@@ -59,7 +59,7 @@ Time permitting, we will discuss some recent results on approximations to low-en
 *Abstract*: Permutation models are a technique developed in the 1920s-30s to begin trying to answer questions about the independence of AC from ZF. Instead of working in the usual ZF set theory, we instead construct a model of ZFA (ZF with "atoms": distinct, non-set objects). By then shaving down our model to only a collection of "symmetric enough" objects, we can obtain models of ZFA that violate choice in some strange ways. I shall introduce this concept and show off some models that give us independence results.
 
 
-### 28 Oct{#next .talk-date}
+### 28 Oct{.talk-date}
 #### [Orla McGrath]{.speaker-name} — [The Lie algebra of a matrix Lie group]{.talk-title} {.speaker-title}
 
 *Abstract*: Lie groups are used to study continuous symmetries and have applications in numerous areas of maths, from mathematical physics to number theory. The tangent space to the identity of a Lie group is a Lie algebra, hence Lie algebras are a useful tool in order to understand Lie groups. In this talk we will look at Lie algebras and Lie groups from an algebraic perspective, firstly reviewing basic notions of Lie algebras, before discussing at the Lie algebra of a matrix Lie group, and some of the properties preserved between these two objects.
@@ -68,10 +68,10 @@ Time permitting, we will discuss some recent results on approximations to low-en
 ### 04 Nov: Pure Maths Colloquium
 
 
-### 11 Nov{.talk-date}
-#### [Connie Bromham]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
+### 11 Nov{#next .talk-date}
+#### [Connie Bromham]{.speaker-name} — [Kolmogorov Complexity]{.talk-title} {.speaker-title}
 
-*Abstract*: TBA.
+*Abstract*: Kolmogorov complexity is a way of showing how compressible a finite binary string is.  This has useful applications when looking at algorithmic randomness of infinite strings by looking at the compressibility of initial segments of the sequence, this can be shown to be equivalent to other notions of randomness such as Martin-Löf randomness. We begin by introducing some basic computability theory, then we go on to define plain and prefix-free Kolmogorov complexity with some proofs relating these notions. At the end we will briefly discuss the application to randomness.
 
 
 ### 18 Nov{.talk-date}
