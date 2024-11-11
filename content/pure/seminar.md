@@ -68,13 +68,13 @@ Time permitting, we will discuss some recent results on approximations to low-en
 ### 04 Nov: Pure Maths Colloquium
 
 
-### 11 Nov{#next .talk-date}
+### 11 Nov{.talk-date}
 #### [Connie Bromham]{.speaker-name} — [Kolmogorov Complexity]{.talk-title} {.speaker-title}
 
 *Abstract*: Kolmogorov complexity is a way of showing how compressible a finite binary string is.  This has useful applications when looking at algorithmic randomness of infinite strings by looking at the compressibility of initial segments of the sequence, this can be shown to be equivalent to other notions of randomness such as Martin-Löf randomness. We begin by introducing some basic computability theory, then we go on to define plain and prefix-free Kolmogorov complexity with some proofs relating these notions. At the end we will briefly discuss the application to randomness.
 
 
-### 18 Nov{.talk-date}
+### 18 Nov{#next .talk-date}
 #### [Joshua Losh]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
 
 *Abstract*: TBA.
