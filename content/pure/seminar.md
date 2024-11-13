@@ -75,9 +75,9 @@ Time permitting, we will discuss some recent results on approximations to low-en
 
 
 ### 18 Nov{#next .talk-date}
-#### [Joshua Losh]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
+#### [Joshua Losh]{.speaker-name} — [Homogeneous Structures]{.talk-title} {.speaker-title}
 
-*Abstract*: TBA.
+*Abstract*: A first-order structure $M$ is said to be homogeneous if any isomorphism between two finitely generated structures of $M$ extends to an automorphism of $M$. In this talk we will consider examples of such structures as well as introducing Fraïssé’s theorem, a powerful result determining when such structures arise. We will also look at other results in the study of homogeneous structures.
 
 
 ### 25 Nov: Pure Maths Colloquium
