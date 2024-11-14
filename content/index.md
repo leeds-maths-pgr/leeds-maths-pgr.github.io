@@ -18,8 +18,7 @@ General:
 
 Subject-specific:
 
-* Fluids PGR Seminar
-* Logic PGR Seminar
+* [PG Logic Seminar](https://logic.leeds.ac.uk/series/pg-logic/)
 
 ## Representatives
 
