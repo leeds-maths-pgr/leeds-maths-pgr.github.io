@@ -74,7 +74,7 @@ Time permitting, we will discuss some recent results on approximations to low-en
 *Abstract*: Kolmogorov complexity is a way of showing how compressible a finite binary string is.  This has useful applications when looking at algorithmic randomness of infinite strings by looking at the compressibility of initial segments of the sequence, this can be shown to be equivalent to other notions of randomness such as Martin-Löf randomness. We begin by introducing some basic computability theory, then we go on to define plain and prefix-free Kolmogorov complexity with some proofs relating these notions. At the end we will briefly discuss the application to randomness.
 
 
-### 18 Nov{#next .talk-date}
+### 18 Nov{.talk-date}
 #### [Joshua Losh]{.speaker-name} — [Homogeneous Structures]{.talk-title} {.speaker-title}
 
 *Abstract*: A first-order structure $M$ is said to be homogeneous if any isomorphism between two finitely generated structures of $M$ extends to an automorphism of $M$. In this talk we will consider examples of such structures as well as introducing Fraïssé’s theorem, a powerful result determining when such structures arise. We will also look at other results in the study of homogeneous structures.
@@ -83,10 +83,10 @@ Time permitting, we will discuss some recent results on approximations to low-en
 ### 25 Nov: Pure Maths Colloquium
 
 
-### 02 Dec{.talk-date}
-#### [TBA]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
+### 02 Dec{#next .talk-date}
+#### [Anja Sneperger]{.speaker-name} — [Heronian Friezes]{.talk-title} {.speaker-title}
 
-*Abstract*: TBA.
+*Abstract*: Motivated by computational geometry of point configurations on the Euclidean plane, and by the theory of cluster algebras of type A, Sergey Fomin and Linus Setiabrata have recently introduced Heronian friezes - the Euclidean analogues of Coxeter’s frieze patterns.  I will explain the way these friezes rise from a polygon in the complex plane, and that a sufficiently generic Heronian frieze is uniquely determined by a small proportion of its entries. Then, I shall prove that, under the same genericity assumption, any Heronian frieze possesses the glide symmetry, and consequently is periodic. Time permitting,  I will discuss on the Laurent phenomenon for these friezes, and potentially, briefly mention Cayley – Menger friezes as well.
 
 
 ### 09 Dec{.talk-date}
