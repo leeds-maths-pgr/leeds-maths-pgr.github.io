@@ -83,14 +83,14 @@ Time permitting, we will discuss some recent results on approximations to low-en
 ### 25 Nov: Pure Maths Colloquium
 
 
-### 02 Dec{#next .talk-date}
+### 02 Dec{.talk-date}
 #### [Anja Sneperger]{.speaker-name} — [Heronian Friezes]{.talk-title} {.speaker-title}
 
 *Abstract*: Motivated by computational geometry of point configurations on the Euclidean plane, and by the theory of cluster algebras of type A, Sergey Fomin and Linus Setiabrata have recently introduced Heronian friezes - the Euclidean analogues of Coxeter’s frieze patterns.  I will explain the way these friezes rise from a polygon in the complex plane, and that a sufficiently generic Heronian frieze is uniquely determined by a small proportion of its entries. Then, I shall prove that, under the same genericity assumption, any Heronian frieze possesses the glide symmetry, and consequently is periodic. Time permitting,  I will discuss on the Laurent phenomenon for these friezes, and potentially, briefly mention Cayley – Menger friezes as well.
 
 
-### 09 Dec{.talk-date}
-#### [Ben De Smet]{.speaker-name} — [TBA]{.talk-title} {.speaker-title}
+### 09 Dec{#next .talk-date}
+#### [Ben De Smet]{.speaker-name} — [How to Not Prove the Poincaré Conjecture]{.talk-title} {.speaker-title}
 
-*Abstract*: TBA.
+*Abstract*: There is but one truly serious philosophical problem, and that is the Poincaré conjecture: Is every compact 3-dimensional homotopy sphere homeomorphic to $S^3$? In this talk, I will not prove this theorem. Instead, I will focus on an incorrect proof given by J.H.C. Whitehead in 1934 in which he incorrectly assumed that every 3-dimensional contractible open manifold must be homeomorphic to $\mathbb{R}^3$. In particular, I will discuss the counterexample which Whitehead later found to this statement, the Whitehead manifold.
 
