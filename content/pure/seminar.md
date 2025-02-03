@@ -10,7 +10,7 @@ header-includes:
 Jump to:
 
 - [Autumn term](#autumn)
-- [Spring term](#spring)
+- [Spring term (Leeds Maths Seminar Webpage)](https://mathsseminars.leeds.ac.uk/seminarseries/pure-pgr/)
 
 Talks are on **Mondays** at **4pm** in the **MALL**, *unless otherwise stated*.
 By custom, there is an offering of coffee and cakes after!

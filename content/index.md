@@ -13,7 +13,7 @@ pagetitle: Homepage
 General:
 
 * Applied PGR Seminar
-* [Pure PGR Seminar](./pure/seminar.html)
+* [Pure PGR Seminar](https://mathsseminars.leeds.ac.uk/seminarseries/pure-pgr/)
 * [Statistics PGR Seminar](https://lmcj.xyz/stats-seminar/)
 
 Subject-specific:
