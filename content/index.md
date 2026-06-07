@@ -23,6 +23,7 @@ Visit the [mathsseminars](https://mathsseminars.leeds.ac.uk/) site for more Leed
 
 ## Conferences
 
+* [Leeds PGR Conference 2026](/conf-2026)
 * [Leeds PGR Conference 2025](/conf-2025)
 * [Leeds PGR Conference 2024](/conf-2024)
 * [Leeds PGR Conference 2023](/conf-2023)
